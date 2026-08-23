@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">bookshelf-lab</string>
+
+    <string name="cd_book_cover_placeholder">Capa não disponível</string>
+    <string name="cd_favorite_add">Adicionar aos favoritos</string>
+    <string name="cd_favorite_remove">Remover dos favoritos</string>
+    <string name="cd_search_clear">Limpar pesquisa</string>
+    <string name="cd_top_app_bar_back">Voltar</string>
+    <string name="search_field_placeholder">Livros, autores ou assuntos</string>
+    <string name="error_content_retry_label">Tentar novamente</string>
+
+    <string name="top_level_destination_discover">Descobrir</string>
+    <string name="top_level_destination_library">Biblioteca</string>
+
+    <string name="discover_empty_title">Nenhuma pesquisa ainda</string>
+    <string name="discover_empty_message">Pesquise por título, autor ou assunto para descobrir novos livros.</string>
+
+    <string name="library_empty_title">Sua biblioteca está vazia</string>
+    <string name="library_empty_message">Livros que você salvar aparecem aqui.</string>
+    <string name="library_empty_action">Descobrir livros</string>
+
+    <string name="book_details_screen_title">Detalhes do livro</string>
+    <string name="book_details_empty_title">Detalhes indisponíveis</string>
+    <string name="book_details_empty_message">Ainda não é possível carregar as informações deste livro.</string>
+</resources>
