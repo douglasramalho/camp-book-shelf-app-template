@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">bookshelf-lab</string>
+    <string name="app_name">BookShelf App</string>
 
     <string name="cd_book_cover_placeholder">Capa não disponível</string>
     <string name="cd_favorite_add">Adicionar aos favoritos</string>

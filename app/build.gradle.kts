@@ -11,7 +11,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "br.com.androidmoderno.bookshelf_lab"
+        applicationId = "br.com.androidmoderno.bookshelf"
         minSdk = 30
         targetSdk = 37
         versionCode = 1
