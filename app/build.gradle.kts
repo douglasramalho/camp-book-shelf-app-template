@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "br.com.androidmoderno.bookshelf_lab"
+    namespace = "br.com.androidmoderno.bookshelf"
     compileSdk {
         version = release(37)
     }
