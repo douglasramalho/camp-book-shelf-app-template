@@ -1,4 +1,4 @@
-# BookShelf Lab
+# BookShelf App
 
 > Template de projeto Android usado no curso **Arquitetura no Desenvolvimento Android Moderno**, do [CAMP](https://androidmoderno.com.br).
 
@@ -12,7 +12,7 @@ A premissa do curso é simples: **evitar abstrações prematuras**. Em vez de co
 
 Saiba mais e inscreva-se em **[androidmoderno.com.br](https://androidmoderno.com.br)**.
 
-## O que é o BookShelf Lab
+## O que é o BookShelf
 
 O BookShelf é um app de catálogo e biblioteca pessoal de livros, consumindo a [Open Library API](https://openlibrary.org/developers/api). O objetivo do app em si é secundário — ele existe apenas como veículo para discutir arquitetura. O aluno vai:
 
@@ -63,7 +63,7 @@ Se você chegou aqui fora do curso: isso não é um esquecimento, é intencional
 Este projeto é um **template do GitHub** — você não deve dar fork nem clonar este repositório diretamente.
 
 1. No topo desta página, clique em **[Use this template → Create a new repository](../../generate)**.
-2. Dê um nome ao seu repositório (ex: `bookshelf-lab-meu-nome`) e crie-o na sua própria conta.
+2. Dê um nome ao seu repositório (ex: `bookshelf-app-meu-nome`) e crie-o na sua própria conta.
 3. Clone **o seu repositório recém-criado**, não este:
    ```bash
    git clone https://github.com/<seu-usuario>/<seu-repositorio>.git
@@ -77,7 +77,7 @@ Este projeto é um **template do GitHub** — você não deve dar fork nem clona
 ## Estrutura do projeto
 
 ```
-app/src/main/java/br/com/androidmoderno/bookshelf_lab/
+app/src/main/java/br/com/androidmoderno/bookshelf/
 ├── core/ui/designsystem/   # tema, componentes visuais reutilizáveis, previews
 ├── feature/discover/       # tela de descoberta/pesquisa de livros
 ├── feature/library/        # tela da biblioteca pessoal
